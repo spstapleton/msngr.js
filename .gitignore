@@ -47,3 +47,7 @@ crossWindowVerifier.html
 crossWindowVerifier.min.html
 benchRunner.html
 benchRunner.min.html
+
+# IDE Files #
+#############
+.idea
